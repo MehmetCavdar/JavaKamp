@@ -28,8 +28,7 @@ public class Main {
 			{ 
 				"Hizli Kredi", 
 				"Emekli Kredisi" ,
-				"Konut Kredisi",
-				"dfdfdf"
+				"Konut Kredisi"
 			};
 		
 		//foreach
